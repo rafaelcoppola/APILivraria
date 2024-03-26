@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\LibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|c:\\xampp\\htdocs\\libraryapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|c:\\xampp\\htdocs\\libraryapi\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|solutionrelative:controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|c:\\xampp\\htdocs\\libraryapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|c:\\xampp\\htdocs\\libraryapi\\controllers\\libraryapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|solutionrelative:controllers\\libraryapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|c:\\xampp\\htdocs\\libraryapi\\request\\requestcreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524372F3-F804-4988-8EDB-8D4DCAB4BCAF}|LibraryAPI.csproj|solutionrelative:request\\requestcreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\LibraryAPI\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\LibraryAPI\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:11:57.468Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestCreateBook.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\LibraryAPI\\Request\\RequestCreateBook.cs",
+              "RelativeDocumentMoniker": "Request\\RequestCreateBook.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\LibraryAPI\\Request\\RequestCreateBook.cs",
+              "RelativeToolTip": "Request\\RequestCreateBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:38:16.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryApiBaseController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\LibraryAPI\\Controllers\\LibraryApiBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibraryApiBaseController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\LibraryAPI\\Controllers\\LibraryApiBaseController.cs",
+              "RelativeToolTip": "Controllers\\LibraryApiBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:19:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WareHouseController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\LibraryAPI\\Controllers\\WareHouseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WareHouseController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\LibraryAPI\\Controllers\\WareHouseController.cs",
+              "RelativeToolTip": "Controllers\\WareHouseController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:12:26.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\LibraryAPI\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\LibraryAPI\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:31:00.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
