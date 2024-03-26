@@ -37,7 +37,7 @@ public class WareHouseController : LibraryApiBaseController
 		var getAllBooks = _bookRepository.GetAllBooks();
 		var lastKey = getAllBooks.Last();
 
-		_bookRepository.SetNewBook(lastKey.Key + 1, request.Title);
+		_bookRepository.SetNewBook(lastKey.Key + 1, request.Title, request.Author, request.Genre, request.Price, request.Quantitie);
 
 		//Uncomment to see the result in the array
 		//return Ok(getAllBooks);
@@ -56,6 +56,10 @@ public class WareHouseController : LibraryApiBaseController
 			try
 			{
 				getBook["title"] = request.Title.Trim();
+				getBook["Author"] = request.Author.Trim();
+				getBook["Genre"] = request.Genre.Trim();
+				getBook["Price"] = request.Price.Trim();
+				getBook["quantitie"] = request.Quantitie.ToString();
 
 				//Uncomment to see the result in the array
 				//return Ok(_bookRepository.GetAllBooks());
